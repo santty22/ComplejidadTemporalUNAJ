@@ -1,0 +1,12 @@
+C:\Users\Santy\Documents\SharpDevelop Projects\practica tp 1\practica tp 1\bin\Debug\trabajo practico 1.exe.config
+C:\Users\Santy\Documents\SharpDevelop Projects\practica tp 1\practica tp 1\bin\Debug\trabajo practico 1.exe
+C:\Users\Santy\Documents\SharpDevelop Projects\practica tp 1\practica tp 1\bin\Debug\trabajo practico 1.pdb
+C:\Users\Santy\Documents\SharpDevelop Projects\practica tp 1\practica tp 1\obj\Debug\trabajo practico 1.csprojResolveAssemblyReference.cache
+C:\Users\Santy\Documents\SharpDevelop Projects\practica tp 1\practica tp 1\obj\Debug\trabajo practico 1.exe
+C:\Users\Santy\Documents\SharpDevelop Projects\practica tp 1\practica tp 1\obj\Debug\trabajo practico 1.pdb
+C:\Users\Santy\Documents\SharpDevelop Projects\Trabajo Practico 1 - CT - Peter Santiago\practica tp 1\bin\Debug\trabajo practico 1.exe.config
+C:\Users\Santy\Documents\SharpDevelop Projects\Trabajo Practico 1 - CT - Peter Santiago\practica tp 1\bin\Debug\trabajo practico 1.exe
+C:\Users\Santy\Documents\SharpDevelop Projects\Trabajo Practico 1 - CT - Peter Santiago\practica tp 1\bin\Debug\trabajo practico 1.pdb
+C:\Users\Santy\Documents\SharpDevelop Projects\Trabajo Practico 1 - CT - Peter Santiago\practica tp 1\obj\Debug\trabajo practico 1.csprojResolveAssemblyReference.cache
+C:\Users\Santy\Documents\SharpDevelop Projects\Trabajo Practico 1 - CT - Peter Santiago\practica tp 1\obj\Debug\trabajo practico 1.exe
+C:\Users\Santy\Documents\SharpDevelop Projects\Trabajo Practico 1 - CT - Peter Santiago\practica tp 1\obj\Debug\trabajo practico 1.pdb
