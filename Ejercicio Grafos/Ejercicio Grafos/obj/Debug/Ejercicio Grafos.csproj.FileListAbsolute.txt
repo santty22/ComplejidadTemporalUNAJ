@@ -1,0 +1,6 @@
+C:\Users\Santy\Desktop\Tareas y papeles\Ingeniería en Informática\Tercer año\Complejidad Temporal\Ejercicio Grafos\Ejercicio Grafos\bin\Debug\Ejercicio Grafos.exe.config
+C:\Users\Santy\Desktop\Tareas y papeles\Ingeniería en Informática\Tercer año\Complejidad Temporal\Ejercicio Grafos\Ejercicio Grafos\bin\Debug\Ejercicio Grafos.exe
+C:\Users\Santy\Desktop\Tareas y papeles\Ingeniería en Informática\Tercer año\Complejidad Temporal\Ejercicio Grafos\Ejercicio Grafos\bin\Debug\Ejercicio Grafos.pdb
+C:\Users\Santy\Desktop\Tareas y papeles\Ingeniería en Informática\Tercer año\Complejidad Temporal\Ejercicio Grafos\Ejercicio Grafos\obj\Debug\Ejercicio Grafos.csprojResolveAssemblyReference.cache
+C:\Users\Santy\Desktop\Tareas y papeles\Ingeniería en Informática\Tercer año\Complejidad Temporal\Ejercicio Grafos\Ejercicio Grafos\obj\Debug\Ejercicio Grafos.exe
+C:\Users\Santy\Desktop\Tareas y papeles\Ingeniería en Informática\Tercer año\Complejidad Temporal\Ejercicio Grafos\Ejercicio Grafos\obj\Debug\Ejercicio Grafos.pdb
